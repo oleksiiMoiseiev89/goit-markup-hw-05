@@ -726,6 +726,12 @@ input:focus .svg__modal {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
+.check__text {
+  line-height: 133%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #4d5ae5;
+}
 
 .modal_svg__check {
   width: 16px;
