@@ -738,10 +738,11 @@ fieldset {
   opacity: 0;
   fill: #404bbf;
 }
-.visually-hidden:checked + .modal_svg__check {
+.checkbox .visually-hidden:checked + .modal_svg__check {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
+  ;
   
 }
 .btn__modal {
