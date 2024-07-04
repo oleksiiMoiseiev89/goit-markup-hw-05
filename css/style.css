@@ -730,19 +730,12 @@ fieldset {
   fill: transparent;
 }
 
-.modal__icon__check__active {
-  position: relative;
-  border-radius: 2px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  cursor: pointer;
-  opacity: 0;
-  fill: #404bbf;
-}
+
 .checkbox .visually-hidden:checked + .modal_svg__check {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
-  ;
+  
   
 }
 .btn__modal {
