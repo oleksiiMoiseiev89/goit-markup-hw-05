@@ -731,7 +731,7 @@ fieldset {
 }
 
 
-.checkbox .visually-hidden:checked + .modal_svg__check {
+.checkbox .visually-hidden:checked + .label__checkbox > .modal_svg__check {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
